@@ -1,6 +1,6 @@
 <!-- ─────────────────────────  HEADER  ───────────────────────── -->
 
-<h1 align="center">solar-irradiance-vision-transformer</h1>
+<h1 align="center">Solar Irradiance DeiT</h1>
 
 <p align="center">
   <em>Vision Transformers for Estimating Irradiance Using Data‑Scarce Sky Images</em>

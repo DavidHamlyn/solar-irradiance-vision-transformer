@@ -18,7 +18,7 @@
 <p align="center">
   <!-- optional architecture / sample‑result image -->
   <!-- 560 px wide is a good balance for desktop & mobile -->
-  <img src="docs/figs/architecture.png" width="560" alt="Solar‑Irradiance ViT architecture">
+  <img src="Sequential_Stream.png" width="560" alt="Solar‑Irradiance ViT architecture">
 </p>
 
 <p align="center">

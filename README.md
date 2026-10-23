@@ -36,3 +36,10 @@
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue" alt="Python 3.9+">
 </p>
 
+
+## Open paper and author website
+
+- [Read the paper on arXiv](https://arxiv.org/abs/2610.30940)
+- [Read the open PDF](https://arxiv.org/pdf/2610.30940)
+- [Paper details, abstract and citation](https://davidhamlyn.com/papers/vision-transformers-irradiance/)
+- [David Hamlyn's research](https://davidhamlyn.com/)
